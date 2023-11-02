@@ -1,0 +1,73 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL.Enum
+{
+    public enum HouseType
+    {
+        House = 1,
+        Building = 2,
+        Apartment = 3,
+        Hut = 4,
+        Modern_House = 5,
+        Hotel = 6,
+        Lodge = 7,
+        Penthouse = 8,
+        Castle = 9,
+        Palace = 10,
+        Townhouse = 11,
+        Farmhouse = 12,
+        House_boat = 13,
+        Vanity_Van = 14,
+        Dormitory = 15,
+        Treehouse = 16,
+        Igloo = 17,
+        Cottage = 18,
+        Fort = 19,
+        Underground_House = 20,
+        Tent = 21,
+        Colonial_house = 22,
+        Log_Cabin = 23,
+        Manor = 24,
+        Barn = 25,
+        Barndominium = 26,
+        Paradise = 27,
+        Bungalow = 28,
+        Lighthouse = 29,
+        French_Provincial = 30,
+        Villa = 31,
+        Craftsman_House = 32,
+        Mobile_House = 33,
+        Terraced_House = 34,
+        Duplex = 35,
+        Nursing_Home = 36,
+        Carriage = 37,
+        High_Rise_House = 38,
+        Detached_House = 39,
+        Semi_detached_house = 40,
+        Camper_Van = 41,
+        Ranch_House = 42,
+        Victorian = 43,
+        Mansion = 44,
+        McMansion = 45,
+        Single_family_Home = 46,
+        Co_op = 47,
+        Condominium = 48,
+        Chalet = 49,
+        Roundhouse = 50,
+        Cave_House = 51,
+        Coach_House = 52,
+        Cabin = 53,
+        Yurt = 54,
+        Container_home = 55,
+        Basement_Suite = 56,
+        Annex = 57,
+        Multi_Family = 58,
+        Converted_Shipping_Container = 59,
+        Chateau = 60,
+
+    }
+}
